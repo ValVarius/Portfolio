@@ -1,0 +1,97 @@
+
+body{
+    background-color: burlywood;
+    font-weight: bold;
+    /* font-family: 'Rock Salt', cursive; */
+    font-family: 'Merienda', cursive;;
+
+
+    color: black;
+}
+
+.navbar.navbar-expand-lg.navbar-light 
+{
+    background-color: #A22E37;
+    /* alternativa color */
+    /* /* rgb(104, 6, 6);  */
+    box-shadow: 1px 5px 5px black;
+    
+    
+}
+.navbar-brand{
+    
+    font-size: 70px;
+    font-style: italic;
+    
+}
+
+.navbar.navbar-expand-lg.navbar-light li a {
+    /* color: rgb(184, 181, 46); */
+    font-size: 30px;
+    color: burlywood;
+}
+
+
+.container {
+    margin-top: 1%;
+    /* background-color: #A22E37; */
+    
+    /* width: 80%; */
+}
+.card {
+    height:70vh;
+    background-color: #A22E37;
+    border-radius: 25px;
+}
+.card-title{
+    
+    font-size: 50px;
+    
+    
+}
+.img-fluid {
+    /* object-fit: fill; */
+    height: 350px;
+} 
+.col-4 {
+    background-image: url("fall.jfif");
+    background-repeat: no-repeat;
+    height: 200px;
+}
+.button{
+    
+        background-color: blue;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 100px 2px;
+        cursor: pointer;
+    
+}
+
+
+
+
+
+
+
+ form {
+     width: 60%;
+     /* margin: 10%; */
+     background-color: #A22E37;
+     border-radius: 25px;
+     padding: 5%;
+     
+ }
+    
+
+
+
+
+
+
+
