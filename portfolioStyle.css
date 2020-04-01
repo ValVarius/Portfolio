@@ -27,7 +27,7 @@ body{
 
 .navbar.navbar-expand-lg.navbar-light li a {
     /* color: rgb(184, 181, 46); */
-    font-size: 30px;
+    font-size: 20px;
     color: burlywood;
 }
 
@@ -49,15 +49,30 @@ body{
     
     
 }
-.img-fluid {
-    /* object-fit: fill; */
-    height: 350px;
-} 
+#myStory {
+    /* background-color: burlywood; */
+    color: burlywood;
+    font-size: large;
+}
+
+#profile {
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
 .col-4 {
-    background-image: url("fall.jfif");
+    
     background-repeat: no-repeat;
     height: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
+img {
+    height: 100%;
+    width: 100%;
+}
+
 .button{
     
         background-color: blue;
@@ -72,11 +87,6 @@ body{
         cursor: pointer;
     
 }
-
-
-
-
-
 
 
  form {
