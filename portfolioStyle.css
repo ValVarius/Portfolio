@@ -45,7 +45,7 @@ body{
 }
 .card-title{
     
-    font-size: 50px;
+    font-size: 35px;
     
     
 }
@@ -127,6 +127,9 @@ img {
   #dropbtn3 {
     background-color: red; 
 }
+#dropbtn4 {
+    background-color: rgb(10, 92, 10);
+}
 #firstTitle{
     position: relative;
     display: inline-block;
@@ -145,6 +148,13 @@ img {
     position: relative;
     display: inline-block;
     color: red;
+    font-size: 26px;
+    font-weight: bolder;
+}
+#fourthTitle{
+    position: relative;
+    display: inline-block;
+    color: rgb(10, 92, 10);
     font-size: 26px;
     font-weight: bolder;
 }
